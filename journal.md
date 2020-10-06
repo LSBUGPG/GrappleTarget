@@ -2,4 +2,4 @@
 
 ## 06/10/2020
 
-blah blah
+GitHub includes the spreadsheet lock file by default. I removed it from the commit.
